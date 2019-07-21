@@ -3,6 +3,7 @@ This is my release of my old private cheat that i no longer work on :D
 
 
 Credits:
+
 Freak - stuff like awall and a few aa's
 
 Syn - For ayyware <3
@@ -21,9 +22,11 @@ Justin - FindMDL Hook etc <3
 I know this has gone on for a while, I might update this idk lol. Also, the ragebot code is ugly as fuck i know, its okay in the long run though lmao
 
 --- Bugs ----
+
 Awall freezes at start of game 
 
 ---- Removed ----
+
 Desync Freestanding (video why: https://www.youtube.com/watch?v=ISU6xyIRCPc )
 
 Desync Crooked
